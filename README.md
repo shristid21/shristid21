@@ -14,7 +14,7 @@
 - 👷 &nbsp; Currently building projects using Django.
 - 🔨 &nbsp; Learning C++ and Django.
 - 🤝 &nbsp; Would love to collaborate.
-- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1UQuX44-NYJuctpZlxus_qo9UFgm5Q7eT/view?usp=drive_link).
+- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1VAb_cavOEvCmiVsfNwAioOTs4WPN-Pps/view).
 
 ### My Tech Stack
 - Programming languages : <br />
